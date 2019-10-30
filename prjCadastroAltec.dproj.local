@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/28 14:35:06.000.952,=C:\Users\giovanni.machado\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 14:36:22.000.767,C:\Users\giovanni.machado\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\giovanni.machado\Desktop\CadastroAltec\UFrmCadastroAltec.dfm</Transaction>
+    <Transaction>2019/10/28 14:36:22.000.767,C:\Users\giovanni.machado\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\UFrmCadastroAltec.pas</Transaction>
+    <Transaction>2019/10/28 14:36:33.000.170,C:\Users\giovanni.machado\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\giovanni.machado\Desktop\CadastroAltec\prjCadastroAltec.dproj</Transaction>
+    <Transaction>2019/10/28 16:50:15.000.431,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 16:51:00.000.227,C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\CEP\UServicoCEP.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 17:00:03.000.011,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 17:00:27.000.444,C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\CEP\UCEPModel.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 17:35:40.000.727,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 17:36:00.000.277,C:\Users\giovanni.machado\Desktop\CadastroAltec\uEndereco.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 17:42:11.000.682,C:\Users\giovanni.machado\Desktop\CadastroAltec\uEndereco.pas=</Transaction>
+    <Transaction>2019/10/28 17:56:34.000.134,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\CEP\UCEPService.pas</Transaction>
+    <Transaction>2019/10/28 18:14:33.000.053,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 18:14:45.000.381,C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\ExceptionCEP\UCEPException.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 18:19:19.000.133,C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\ExceptionCEP\UCEPException.pas=</Transaction>
+    <Transaction>2019/10/28 21:02:50.000.409,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 21:03:11.000.561,C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Cadastro\UCadastroModel.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 22:06:09.000.540,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 22:06:28.000.893,C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Cadastro\UCadastroService.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 22:10:16.000.424,C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Cadastro\UCadastroService.pas=</Transaction>
+    <Transaction>2019/10/28 22:10:41.000.413,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 22:10:56.000.793,C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Email\UEmailService.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/29 15:05:45.000.801,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/29 15:06:21.000.497,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Cadastro\UCadastroService.pas</Transaction>
+    <Transaction>2019/10/29 15:24:56.000.042,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/29 15:25:44.000.308,C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Helpers\UEditBoxHelper.pas</Transaction>
+    <Transaction>2019/10/29 15:26:23.000.358,C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Helpers\UEditBoxHelper.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Helpers\UEditHelper.pas</Transaction>
+    <Transaction>2019/10/29 15:30:46.000.058,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/29 15:30:58.000.179,C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Helpers\UIntegerHelper.pas</Transaction>
+    <Transaction>2019/10/29 15:41:46.000.389,C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Helpers\UIntegerHelper.pas=</Transaction>
+    <Transaction>2019/10/29 18:17:44.000.826,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/29 18:18:02.000.729,C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Email\UEmailModel.pas</Transaction>
+    <Transaction>2019/10/29 18:51:05.000.548,=C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas</Transaction>
+    <Transaction>2019/10/29 18:51:29.000.312,C:\Users\giovanni.machado\Desktop\CadastroAltec\Unit1.pas=C:\Users\giovanni.machado\Desktop\CadastroAltec\Fontes\Helpers\UObjectHelper.pas</Transaction>
+  </Transactions>
+</BorlandProject>
